@@ -1,0 +1,172 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Alfredo Gutiérrez",
+	"icon": "https://micro.blog/alfredo/avatar.jpg",
+	"home_page_url": "https://alfredo.blog/",
+	"feed_url": "https://alfredo.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://gutifredo.micro.blog/2025/12/24/feliz-navidad.html",
+				
+				"content_html": "<p>Feliz navidad 🎄</p>\n",
+				"content_text": "Feliz navidad 🎄\n",
+				"date_published": "2025-12-24T21:56:50-06:00",
+				"url": "https://alfredo.blog/2025/12/24/feliz-navidad.html",
+				"tags": ["logs"]
+			},
+			{
+				"id": "http://gutifredo.micro.blog/2024/03/19/summer.html",
+				"title": "Summer",
+				"content_html": "<p>I find it so cold<br>\nthat this world wasn&rsquo;t made<br>\nfor angels like you<br>\n&hellip;But do you believe in summer?</p>\n",
+				"content_text": "I find it so cold<br>\nthat this world wasn't made<br>\nfor angels like you<br>\n...But do you believe in summer?\n",
+				"date_published": "2024-03-19T13:09:00-06:00",
+				"url": "https://alfredo.blog/2024/03/19/summer.html",
+				"tags": ["poems"]
+			},
+			{
+				"id": "http://gutifredo.micro.blog/2024/03/15/whiskey-water.html",
+				"title": "Whiskey \u0026 Water",
+				"content_html": "<p>She drank the whiskey,<br>\nI chose the water;<br>\nyet I still got tipsy<br>\nstaring at the girl with an absent father.</p>\n<p>No liquor have I ever<br>\ndrank to feel this way<br>\nand it may not last forever,<br>\nfor I&rsquo;m just another prey.</p>\n<p>&ldquo;It&rsquo;s time for y&rsquo;all to leave,&quot;<br>\nthe bartender loudly screamed.<br>\nThe bar will close at 3.<br>\nIt&rsquo;s time to stop this dream.</p>\n<p>No words that I could speak<br>\nto the greatest of all thieves,<br>\nfor stealing all the self-worth<br>\nthat any man deserves to keep.</p>\n",
+				"content_text": "She drank the whiskey,<br>\nI chose the water;<br>\nyet I still got tipsy<br>\nstaring at the girl with an absent father.\n\nNo liquor have I ever<br>\ndrank to feel this way<br>\nand it may not last forever,<br>\nfor I'm just another prey.\n\n\"It's time for y'all to leave,\"<br>\nthe bartender loudly screamed.<br>\nThe bar will close at 3.<br>\nIt's time to stop this dream.\n\nNo words that I could speak<br>\nto the greatest of all thieves,<br>\nfor stealing all the self-worth<br>\nthat any man deserves to keep.\n",
+				"date_published": "2024-03-15T11:34:00-06:00",
+				"url": "https://alfredo.blog/2024/03/15/whiskey-water.html",
+				"tags": ["poems"]
+			},
+			{
+				"id": "http://gutifredo.micro.blog/2024/03/10/anxiety.html",
+				"title": "Anxiety",
+				"content_html": "<p>Like the sting of a bee,<br>\nthat never goes away.<br>\nNo antidote for it,<br>\n&ldquo;just breathe&rdquo; is all they say.</p>\n<p>I am not sick,<br>\nnor ecstatic as I play.<br>\nYet my heart shrinks<br>\nwhen facing a new tray.</p>\n<p>&ldquo;Don&rsquo;t dwell too much on it,&quot;<br>\nmy therapist would say.<br>\nThe more attention it receives<br>\nthe bigger it becomes, I bet.</p>\n<p>I guess I&rsquo;ll live with it,<br>\nan invitation to the game.<br>\nTeaming up,<br>\nto see how far we&rsquo;ll get.</p>\n",
+				"content_text": "Like the sting of a bee,<br>\nthat never goes away.<br>\nNo antidote for it,<br>\n\"just breathe\" is all they say.\n\nI am not sick,<br>\nnor ecstatic as I play.<br>\nYet my heart shrinks<br>\nwhen facing a new tray.\n\n\"Don't dwell too much on it,\"<br>\nmy therapist would say.<br>\nThe more attention it receives<br>\nthe bigger it becomes, I bet.\n\nI guess I'll live with it,<br>\nan invitation to the game.<br>\nTeaming up,<br>\nto see how far we'll get.\n",
+				"date_published": "2024-03-10T14:29:00-06:00",
+				"url": "https://alfredo.blog/2024/03/10/anxiety.html",
+				"tags": ["poems"]
+			},
+			{
+				"id": "http://gutifredo.micro.blog/2021/06/28/locura.html",
+				"title": "Locura",
+				"content_html": "<p>Desde esta lejanía<br>\nte extraño con locura,<br>\nte pienso noche y día<br>\ny el tiempo no se apura</p>\n<p>Por si no te lo había dicho,<br>\nque no exista la duda<br>\nde que esto no es capricho,<br>\nes amor, amor que dura.</p>\n",
+				"content_text": "Desde esta lejanía<br>\nte extraño con locura,<br>\nte pienso noche y día<br>\ny el tiempo no se apura\n\nPor si no te lo había dicho,<br>\nque no exista la duda<br>\nde que esto no es capricho,<br>\nes amor, amor que dura.\n",
+				"date_published": "2021-06-28T05:00:00-06:00",
+				"url": "https://alfredo.blog/2021/06/28/locura.html",
+				"tags": ["poems"]
+			},
+			{
+				"id": "http://gutifredo.micro.blog/2021/05/31/madre.html",
+				"title": "Madre",
+				"content_html": "<p>Los besos de mi madre<br>\nme mantuvieron bien despierto,<br>\nahuyentando lo cobarde<br>\nen un mundo tan incierto.<br></p>\n<p>Gracias madre,<br>\npor tu amor<br>\ne incondicional sustento.</p>\n",
+				"content_text": "Los besos de mi madre<br>\nme mantuvieron bien despierto,<br>\nahuyentando lo cobarde<br>\nen un mundo tan incierto.<br>\n\nGracias madre,<br>\npor tu amor<br>\ne incondicional sustento.\n",
+				"date_published": "2021-05-31T12:33:00-06:00",
+				"url": "https://alfredo.blog/2021/05/31/madre.html",
+				"tags": ["poems"]
+			},
+			{
+				"id": "http://gutifredo.micro.blog/2021/05/22/nostalgia.html",
+				"title": "Nostalgia",
+				"content_html": "<p>Duermo en una cama<br>\nmuy grande y ancha<br>\npara que por la noche<br>\nquepa toda la nostalgia<br>\nque me dejaron los que hoy<br>\nme hacen tanta falta.</p>\n",
+				"content_text": "Duermo en una cama<br>\nmuy grande y ancha<br>\npara que por la noche<br>\nquepa toda la nostalgia<br>\nque me dejaron los que hoy<br>\nme hacen tanta falta.\n",
+				"date_published": "2021-05-22T12:06:00-06:00",
+				"url": "https://alfredo.blog/2021/05/22/nostalgia.html",
+				"tags": ["poems"]
+			},
+			{
+				"id": "http://gutifredo.micro.blog/2021/05/22/abundancia.html",
+				"title": "Abundancia",
+				"content_html": "<p>Testaruda mi ignorancia,<br>\npor haberme vendado la mirada<br>\nante un mundo y su abundancia,<br>\nal que por haber llegado sin nada,<br>\nhasta las pérdidas son ganancia.</p>\n",
+				"content_text": "Testaruda mi ignorancia,<br>\npor haberme vendado la mirada<br>\nante un mundo y su abundancia,<br>\nal que por haber llegado sin nada,<br>\nhasta las pérdidas son ganancia.\n",
+				"date_published": "2021-05-22T12:05:00-06:00",
+				"url": "https://alfredo.blog/2021/05/22/abundancia.html",
+				"tags": ["poems"]
+			},
+			{
+				"id": "http://gutifredo.micro.blog/2020/10/07/complejo.html",
+				"title": "Complejo",
+				"content_html": "<p>Cuando ni Dios<br>\nconcede todas nuestras plegarias,<br>\naquí estoy yo,<br>\ncon intensiones involuntarias<br>\nde complacer a todos<br>\npara que no me cojan con rabia.</p>\n",
+				"content_text": "Cuando ni Dios<br>\nconcede todas nuestras plegarias,<br>\naquí estoy yo,<br>\ncon intensiones involuntarias<br>\nde complacer a todos<br>\npara que no me cojan con rabia.\n",
+				"date_published": "2020-10-07T14:19:00-06:00",
+				"url": "https://alfredo.blog/2020/10/07/complejo.html",
+				"tags": ["poems"]
+			},
+			{
+				"id": "http://gutifredo.micro.blog/2020/10/05/miedos.html",
+				"title": "Miedos",
+				"content_html": "<p>Haré una fiesta<br>\ne invitaré a mis miedos,<br>\nsobre todo a aquellos<br>\nque gritan «¡no puedo!».</p>\n<p>Para descubrir<br>\nde qué están hechos<br>\ny darle fin<br>\na sus engañosos juegos.</p>\n<p>Notarán<br>\nque no les temo,<br>\npues ya comprendo<br>\nque no son serios.</p>\n<p>Al final<br>\nme reiré de ellos,<br>\npues llegaron grandes,<br>\npero se irán pequeños.</p>\n",
+				"content_text": "Haré una fiesta<br>\ne invitaré a mis miedos,<br>\nsobre todo a aquellos<br>\nque gritan «¡no puedo!».\n\nPara descubrir<br>\nde qué están hechos<br>\ny darle fin<br>\na sus engañosos juegos.\n\nNotarán<br>\nque no les temo,<br>\npues ya comprendo<br>\nque no son serios.\n\nAl final<br>\nme reiré de ellos,<br>\npues llegaron grandes,<br>\npero se irán pequeños.\n",
+				"date_published": "2020-10-05T09:35:00-06:00",
+				"url": "https://alfredo.blog/2020/10/05/miedos.html",
+				"tags": ["poems"]
+			},
+			{
+				"id": "http://gutifredo.micro.blog/2020/08/14/reflejo.html",
+				"title": "Reflejo",
+				"content_html": "<p>Ante mi espejo<br>\ncon ojos tiesos,<br>\njuzgo un reflejo <br>\nlleno de tropiezos.</p>\n<p>Pensamientos van y vienen,<br>\nque creo poco ciertos.</p>\n<p>Son amargos y muy tercos,<br>\ncarentes de finales, <br>\ncarentes de comienzos.</p>\n<p>Siguen juzgando\na través del espejo,<br>\nsin saber que hay tanto<br>\nque no tiene reflejo.</p>\n",
+				"content_text": "Ante mi espejo<br> \ncon ojos tiesos,<br>\njuzgo un reflejo <br>\nlleno de tropiezos.\n\nPensamientos van y vienen,<br>\nque creo poco ciertos.\n\nSon amargos y muy tercos,<br>\ncarentes de finales, <br>\ncarentes de comienzos.\n\nSiguen juzgando \na través del espejo,<br>\nsin saber que hay tanto<br>\nque no tiene reflejo.\n",
+				"date_published": "2020-08-14T05:30:00-06:00",
+				"url": "https://alfredo.blog/2020/08/14/reflejo.html",
+				"tags": ["poems"]
+			},
+			{
+				"id": "http://gutifredo.micro.blog/2020/08/09/amores.html",
+				"title": "Amores",
+				"content_html": "<p>Un dolor del pasado<br>\nque no pudo ser consolado<br>\nse transformó en el miedo<br>\na salir lastimados.</p>\n<p>Por eso, hoy,<br>\nmás que amar,<br>\npreferimos ser amados.</p>\n",
+				"content_text": "Un dolor del pasado<br>\nque no pudo ser consolado<br>\nse transformó en el miedo<br>\na salir lastimados.\n\nPor eso, hoy,<br>\nmás que amar,<br>\npreferimos ser amados.\n",
+				"date_published": "2020-08-09T18:32:00-06:00",
+				"url": "https://alfredo.blog/2020/08/09/amores.html",
+				"tags": ["poems"]
+			},
+			{
+				"id": "http://gutifredo.micro.blog/2019/11/27/tener-la-razn.html",
+				"title": "Razón",
+				"content_html": "<p>Cuando te das cuenta<br>\nque las opiniones <br>\nson tan subjetivas,<br>\ntener la razón<br>\nno vale tanto como creías.</p>\n",
+				"content_text": "Cuando te das cuenta<br>\nque las opiniones <br>\nson tan subjetivas,<br>\ntener la razón<br>\nno vale tanto como creías.\n",
+				"date_published": "2019-11-27T10:33:03-06:00",
+				"url": "https://alfredo.blog/2019/11/27/tener-la-razn.html",
+				"tags": ["poems"]
+			},
+			{
+				"id": "http://gutifredo.micro.blog/2019/11/21/el-cielo-en-la-tierra.html",
+				"title": "El Cielo",
+				"content_html": "<p>Muchos creen que al morir<br>\nel cielo cesará toda dolencia.</p>\n<p>¿No sabrán que están en él<br>\npero lo han hecho<br>\nun desastre de experiencia?</p>\n",
+				"content_text": "Muchos creen que al morir<br>\nel cielo cesará toda dolencia.\n\n¿No sabrán que están en él<br>\npero lo han hecho<br>\nun desastre de experiencia?\n",
+				"date_published": "2019-11-21T10:34:13-06:00",
+				"url": "https://alfredo.blog/2019/11/21/el-cielo-en-la-tierra.html",
+				"tags": ["poems"]
+			},
+			{
+				"id": "http://gutifredo.micro.blog/2019/11/20/la-ansiedad.html",
+				"title": "Ansiedad",
+				"content_html": "<p>Es normal que entre en la mente, <br>\nque te agobie y atormente,<br>\ncombatirla hará que aumente, <br>\nhay que obviarla solamente.</p>\n<p>Volverá y será latente, <br>\ny tendrás que ser valiente, <br>\nno le creas porque miente,<br>\nVale más seguir sonriente.</p>\n<p>Y tampoco estés pendiente, <br>\nes mejor si no se siente, <br>\nsin importar cuánto frecuente.<br>\nque no se vuelva tu presente.</p>\n",
+				"content_text": "Es normal que entre en la mente, <br>\nque te agobie y atormente,<br>\ncombatirla hará que aumente, <br>\nhay que obviarla solamente.\n\nVolverá y será latente, <br>\ny tendrás que ser valiente, <br>\nno le creas porque miente,<br>\nVale más seguir sonriente.\n\nY tampoco estés pendiente, <br>\nes mejor si no se siente, <br>\nsin importar cuánto frecuente.<br> \nque no se vuelva tu presente.\n",
+				"date_published": "2019-11-20T20:18:42-06:00",
+				"url": "https://alfredo.blog/2019/11/20/la-ansiedad.html",
+				"tags": ["poems"]
+			},
+			{
+				"id": "http://gutifredo.micro.blog/2017/07/09/de-madrid-a-logroo.html",
+				"title": "De Madrid a Logroño",
+				"content_html": "<p>El invierno estaba llegando a sus últimos días, lo cual hacía del paisaje uno de los mas hermosos que jamás había recorrido.</p>\n<p>Arribamos a la estación de Logroño después de 4 horas de camino, a donde me esperaba Meli. Temía que después de tantos años no me fuese a reconocer.</p>\n<p>La vi a lo lejos, justo después de bajarme del autobús, pero 17 años sin verla me hicieron dudar si era realmente ella. La gente cambia mucho fisicamente en 17 años.</p>\n<p><b>—</b> ¿Meli?\n<b>—</b> ¡Hasta que por fin te encuentro!\nAl saber que era ella, la duda se transformó en mucha alegría.\n<b>—</b> Te vi buscándome, pero no estaba seguro si eras tú.\n<b>—</b> ¡Venga! Dame un abrazo.</p>\n<p>Nos subimos al carro en dirección a su casa. Tuvimos una conversación en la que pude resumir 17 años a 20 minutos.</p>\n<p>Al llegar, entramos por la parte de atrás de la casa. Y de inmediato un olor muy familiar me trajo bonitos recuerdos de cuando estuve en España por primera vez, a los 6 años.</p>\n<p>Intentamos subir las escaleras sin hacer ni el más mínimo ruido. Cada escalón me hacía sentir más y más ansioso. Empecé a imaginar nuestro encuentro. Lo que estaría haciendo en ese momento. Su reacción al verme.</p>\n<p>Llegando a la habitación, la puerta entre abierta me permitió escuchar la máquina de coser desde afuera. El sonido que hace la máquina de coser me es tan placentero como el de las chispas que hace una fogata, me crié escuchando ese sonido.</p>\n<p>Abrí la puerta para entrar a la habitación.</p>\n<p>Meli, que venía detrás de mi exclamó:</p>\n<p><b>—</b> ¡Mira quien está aquí!&hellip;</p>\n<blockquote>...Lo que ocurrió después fue el re-encuentro mas lindo de mi vida... Quise compartirlo.</blockquote>\n<img src=\"https://cdn.uploads.micro.blog/281600/2025/adff725045.jpg\">\n",
+				"content_text": "El invierno estaba llegando a sus últimos días, lo cual hacía del paisaje uno de los mas hermosos que jamás había recorrido.\n\nArribamos a la estación de Logroño después de 4 horas de camino, a donde me esperaba Meli. Temía que después de tantos años no me fuese a reconocer.\n\nLa vi a lo lejos, justo después de bajarme del autobús, pero 17 años sin verla me hicieron dudar si era realmente ella. La gente cambia mucho fisicamente en 17 años.\n\n<b>—</b> ¿Meli?\n<b>—</b> ¡Hasta que por fin te encuentro!\nAl saber que era ella, la duda se transformó en mucha alegría.\n<b>—</b> Te vi buscándome, pero no estaba seguro si eras tú.\n<b>—</b> ¡Venga! Dame un abrazo.\n\nNos subimos al carro en dirección a su casa. Tuvimos una conversación en la que pude resumir 17 años a 20 minutos.\n\nAl llegar, entramos por la parte de atrás de la casa. Y de inmediato un olor muy familiar me trajo bonitos recuerdos de cuando estuve en España por primera vez, a los 6 años.\n\nIntentamos subir las escaleras sin hacer ni el más mínimo ruido. Cada escalón me hacía sentir más y más ansioso. Empecé a imaginar nuestro encuentro. Lo que estaría haciendo en ese momento. Su reacción al verme.\n\nLlegando a la habitación, la puerta entre abierta me permitió escuchar la máquina de coser desde afuera. El sonido que hace la máquina de coser me es tan placentero como el de las chispas que hace una fogata, me crié escuchando ese sonido.\n\nAbrí la puerta para entrar a la habitación.\n\nMeli, que venía detrás de mi exclamó:\n\n<b>—</b> ¡Mira quien está aquí!...\n<blockquote>...Lo que ocurrió después fue el re-encuentro mas lindo de mi vida... Quise compartirlo.</blockquote>\n\n<img src=\"https://cdn.uploads.micro.blog/281600/2025/adff725045.jpg\">\n",
+				"date_published": "2017-07-09T09:13:00-06:00",
+				"url": "https://alfredo.blog/2017/07/09/de-madrid-a-logroo.html",
+				"tags": ["blogs"]
+			},
+			{
+				"id": "http://gutifredo.micro.blog/2017/06/21/el-mar-que-calma.html",
+				"title": "El Mar Que Calma",
+				"content_html": "<p style=\"text-align: left;\">Sentado en la playa noté como otros, al igual que yo, estaban tan relajados mirando el mar.</p>\nY pensé... “El mar calma. El mar te hace olvidar, absorviendo lo malo que puedas pensar”.\n<p>Luego pensé&hellip; “Por eso la gente es tan felíz en el mar. Porque el mar te quita el pensar”.</p>\n<p>Por eso la gente inteligente se entrega al mar. Se dejan absorver por la marea, hacia muy adentro en su inmensidad.</p>\n<p>Si le entregas todo al mar, sabrás de donde vienes y a donde vas. La gente que realmente aprecia el mar, se pierde en su totalidad, porque al mar no le tienen nada que demostrar, no tienen nada de qué alardear.</p>\n<p>Y al final supe por qué la gente se relaja tanto en el mar.</p>\n<blockquote>Entrégate a la naturaleza y ella te revelará sus secretos.</blockquote>\n<img src=\"https://cdn.uploads.micro.blog/281600/2025/c9e273334c.jpg\">\n",
+				"content_text": "<p style=\"text-align: left;\">Sentado en la playa noté como otros, al igual que yo, estaban tan relajados mirando el mar.</p>\nY pensé... “El mar calma. El mar te hace olvidar, absorviendo lo malo que puedas pensar”.\n\nLuego pensé... “Por eso la gente es tan felíz en el mar. Porque el mar te quita el pensar”.\n\nPor eso la gente inteligente se entrega al mar. Se dejan absorver por la marea, hacia muy adentro en su inmensidad.\n\nSi le entregas todo al mar, sabrás de donde vienes y a donde vas. La gente que realmente aprecia el mar, se pierde en su totalidad, porque al mar no le tienen nada que demostrar, no tienen nada de qué alardear.\n\nY al final supe por qué la gente se relaja tanto en el mar.\n<blockquote>Entrégate a la naturaleza y ella te revelará sus secretos.</blockquote>\n\n<img src=\"https://cdn.uploads.micro.blog/281600/2025/c9e273334c.jpg\">\n",
+				"date_published": "2017-06-21T19:41:00-06:00",
+				"url": "https://alfredo.blog/2017/06/21/el-mar-que-calma.html",
+				"tags": ["blogs"]
+			},
+			{
+				"id": "http://gutifredo.micro.blog/2017/01/05/mi-primer-post.html",
+				"title": "Mi Primer Post",
+				"content_html": "<p>Antes de que me invada la duda y comience a vacilar conmigo mismo sobre si valdrá o no la pena crear contenido para alguien a quien pueda o no importarle&hellip;</p>\n<p>Comenzaré confesando que es algo que siempre había querido hacer por muchas razones como: saber que mejoraría mucho mi gramática, sentir el alivio de expresar mis pensamientos y forma de ver las cosas, aportar conocimiento a personas que están empezando a vivir mi mismo camino, entre otras.</p>\n<p>Una vez leí que no importa cuanta gente esté haciendo lo que tu quisieras hacer, lo que tu aportes jamás será exactamente igual, ya que cada quien vive su propia historia a su manera y eso la hace única y digna de compartir. Esa teoría desde ese entonces no ha salido de mi cabeza y en estos momentos es mi motivación para seguir escribiendo.</p>\n<p>Quiero crear este blog para de alguna forma ayudar a muchos que hoy en día buscan una salida a problemas que yo superé en mi pasado y pude encontrar una solución. Aún no he definido un tópico general, pues sé que procrastinaré en avanzar si en estos momentos decido escoger uno. Iniciaré posteando lo que mi mente considere útil o interesante.</p>\n<p>Me da alegría llevar a cabo una idea que tenía en mi cabeza desde hace tiempo. Y me da aún más alegría saber que de ahora en adelante disfrutaré cada minuto que invierta en ella.</p>\n",
+				"content_text": "Antes de que me invada la duda y comience a vacilar conmigo mismo sobre si valdrá o no la pena crear contenido para alguien a quien pueda o no importarle...\n\nComenzaré confesando que es algo que siempre había querido hacer por muchas razones como: saber que mejoraría mucho mi gramática, sentir el alivio de expresar mis pensamientos y forma de ver las cosas, aportar conocimiento a personas que están empezando a vivir mi mismo camino, entre otras.\n\nUna vez leí que no importa cuanta gente esté haciendo lo que tu quisieras hacer, lo que tu aportes jamás será exactamente igual, ya que cada quien vive su propia historia a su manera y eso la hace única y digna de compartir. Esa teoría desde ese entonces no ha salido de mi cabeza y en estos momentos es mi motivación para seguir escribiendo.\n\nQuiero crear este blog para de alguna forma ayudar a muchos que hoy en día buscan una salida a problemas que yo superé en mi pasado y pude encontrar una solución. Aún no he definido un tópico general, pues sé que procrastinaré en avanzar si en estos momentos decido escoger uno. Iniciaré posteando lo que mi mente considere útil o interesante.\n\nMe da alegría llevar a cabo una idea que tenía en mi cabeza desde hace tiempo. Y me da aún más alegría saber que de ahora en adelante disfrutaré cada minuto que invierta en ella.\n",
+				"date_published": "2017-01-05T19:32:47-06:00",
+				"url": "https://alfredo.blog/2017/01/05/mi-primer-post.html",
+				"tags": ["blogs"]
+			}
+	]
+}
